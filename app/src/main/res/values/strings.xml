@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">plantsapp_2125250036</string>
+    <string name="signup_text"><b>Don\'t have an account?<u><font color = '#242F9B'> Sign-up</font></u></b></string>
+    <string name="txt_sign">*By Signing you agree to our <font color = '#C6C1C1'>team of use </font> and <font color= '#C6C1C1'>privacy notice</font></string>
+</resources>
